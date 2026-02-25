@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-som-032b20119/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-som-032b20119/)
 [![Xing](https://img.shields.io/badge/Xing-Green%230077B5.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/Aakash_Som/web_profiles) 
 
 # 💻 Tech Stack:
